@@ -134,7 +134,7 @@ Es ultra importante saber que tipo de dato tenemos que enviar y que tipo de dato
 
 ## USTEDES PUEDEN!!!
 
-Nos vemos en el m3 <3
+Nos vemos en el m3 :D
 
 ![SacaElTigreQueHayEnVos](./img/tiger.jpg)
 
